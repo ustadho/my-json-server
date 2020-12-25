@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": "P01",
+            "name": "Khimar Kayla Jilbab Instan 2 lapis PolyCotton Spesial ORI Jilbab Trend",
+            "price": 27000,
+            "image": [
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2020/1/10/23920554/23920554_07614b29-b39a-4878-aec9-9469a0864c8f_1046_1046",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2020/1/10/23920554/23920554_5940677c-eea0-473e-a459-219d0faabba6_1062_1062",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2020/6/24/23920554/23920554_00094523-808f-495f-a878-d6d33db08593_720_720",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2020/6/24/23920554/23920554_b945d364-8030-4b6d-b17f-9e3c043adbd5_720_720",
+                "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/10/19/3b1dc873-8e13-44dc-a430-b8cc75d1a4c0.jpg"
+            ],
+            "description": "Deskripsi Khimar Kayla Jilbab Instan 2 lapis PolyCotton Spesial ORI Jilbab Trend\nHi kakak,\nPerkenalkan hijab terbaru tahun 2020"
+        },
+        {
+            "id": "P02",
+            "name": "Bergo Tali Maula Hijab Jilbab Kerudung Khimar Instan Tali Tanpa Pet - Cream",
+            "price": 19700,
+            "image": [
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2020/1/7/16494769/16494769_051e30a3-e681-4a89-80b0-8534fe6de88e_1120_1120",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2019/12/16/16494769/16494769_dce0e0d9-9e2f-4492-8cf2-4c79d13084d0_1120_1120",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2019/12/16/16494769/16494769_34eac890-551d-4f1a-a73e-8e1490fe42fe_1120_1120",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2019/12/16/16494769/16494769_478700ac-18d4-4bd4-b87b-6f0ab8b6692f_1120_1120",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2019/12/16/16494769/16494769_ad05dc1f-3a3d-40e8-b5a1-ff8d31211a47_1120_1120",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2019/12/16/16494769/16494769_4c9086cf-ac9c-46d6-843d-f88a5a9eb998_1120_1120",
+                "https://ecs7.tokopedia.net/img/cache/900/product-1/2020/1/7/16494769/16494769_543fb747-4042-4c41-b167-c9b07010e11c_1120_1120"
+            ],
+            "description": "Deskripsi Bergo Tali Maula Hijab Jilbab Kerudung Khimar Instan Tali Tanpa Pet - Cream\nPercayakan belanja anda di toko Maula Hijab, karena hanya kami yang berani memberikan garansi:\n- GARANSI 100% produk ORI Maula Hijab.\n- GARANSI 100% uang kembali atau tukar produk jika produk cacat atau tidak sesuai (salah warna / salah jumlah)."
+        },
+        {
+            "id": "P03",
+            "name": "Hijab jilbab kerudung segi empat polos basic voal umama scarf",
+            "price": 18500,
+            "image": [
+                "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/6/12/27a18b24-4a6c-4ef7-8ac7-9586a9afeea2.jpg",
+                "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/15/f8fb3d59-a683-4652-8468-cc1aa197fef1.jpg",
+                "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/15/a366b35a-fb7a-4bb4-971c-bc0c99fdc6bb.jpg",
+                "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/15/8fc37d35-6f4e-4c90-aff2-cef2b45dbb31.jpg"
+            ],
+            "description": "Deskripsi Hijab jilbab kerudung segi empat polos basic voal umama scarf\nHijab jilbab kerudung segi\nempat voal/katun polos basic voal umama\nUk: 110x 110cm"
+        }
+    ]
+}
